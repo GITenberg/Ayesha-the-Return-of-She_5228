@@ -1,0 +1,49 @@
+_repo: Ayesha-the-Return-of-She_5228
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: "Ayesha, the Return of She is a gothic-fantasy novel by the popular Victorian\
+  \ author H. Rider Haggard, published in 1905, as a sequel to his far more popular\
+  \ and well known novel, She. It was serialised in the Windsor Magazine in 1904-5.\n\
+  Its significance was recognised by its republication by the Newcastle Publishing\
+  \ Company as the fourteenth volume of the celebrated Newcastle Forgotten Fantasy\
+  \ Library series in October 1977.\nIn the introduction, Sir H. Rider Haggard links\
+  \ the name Ayesha to Muhammad's wives, and the Arabic name (Arabic: عائشة, ʻĀʼishah,\
+  \ pronounced [ˈʕaːʔiʃa]), stating that it should be pronounced \"Assha\" /ˈɑːʃə/,\
+  \ although the pronunciation A·ye·sha /ɑːˈjɛʃə/ or /ɑːˈjiːʃə/ is perhaps more common.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Adventure
+- Movie Books
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5228'
+  wikidata: Q2604590
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Immortalism -- Fiction'
+- !lcsh 'Asia -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Ayesha (Fictitious character : Haggard) -- Fiction'
+- GITenberg
+title: Ayesha, the Return of She
+url: http://www.gutenberg.org/ebooks/5228
+wikipedia:
+- https://en.wikipedia.org/wiki/Ayesha_(novel)
+- https://nl.wikipedia.org/wiki/De_terugkeer_van_Zij
+- https://es.wikipedia.org/wiki/Ayesha:_el_retorno_de_Ella

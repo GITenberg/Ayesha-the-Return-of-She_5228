@@ -1,5 +1,8 @@
 _repo: Ayesha-the-Return-of-She_5228
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -21,6 +24,8 @@ description: "Ayesha, the Return of She is a gothic-fantasy novel by the popular
   \ pronounced [ˈʕaːʔiʃa]), stating that it should be pronounced \"Assha\" /ˈɑːʃə/,\
   \ although the pronunciation A·ye·sha /ɑːˈjɛʃə/ or /ɑːˈjiːʃə/ is perhaps more common.\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5228#Ayesha-the-Return-of-She
 gutenberg_bookshelf:
 - Adventure
 - Movie Books
